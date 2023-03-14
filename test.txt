@@ -1,0 +1,3 @@
+Hello this is a test.
+This repo is made for a opdracht van uit thuis xD.
+Dit is voor de opdracht Local repo pushen naar GitHub.
